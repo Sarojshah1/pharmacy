@@ -1,0 +1,16 @@
+				ABC Pharmacy Store
+			       +977-9888888888, 01-890000000
+				Anamnagar,Kathmandu
+
+Name:sachin khatri				Address:tokha,kathmandu
+
+
+
+SN		Particular		QTY		Price		Prescription
+1		Alprazolam		20		1000		3 times a day
+2		Alprazolam		20		1000		3 times a day
+
+
+                                                                                 Total: 2400
+                                                                                 discount %: 15%
+                                                                                 to pay: 2040.0

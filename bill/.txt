@@ -1,0 +1,9 @@
+				ABC Pharmacy Store
+			       +977-9888888888, 01-890000000
+				Anamnagar,Kathmandu
+
+Name:				Address:
+
+
+
+SN		Particular		QTY		Price		Prescription

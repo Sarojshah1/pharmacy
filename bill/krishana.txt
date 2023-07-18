@@ -1,0 +1,16 @@
+				ABC Pharmacy Store
+			       +977-9888888888, 01-890000000
+				Anamnagar,Kathmandu
+
+Name:krishna bhandari				Address:nakkhu
+
+
+
+SN		Particular		QTY		Price		Prescription
+1		Naproxen		50		1250		3 times a day
+2		acetylcysteine		10		3990		3 times a day
+
+
+                                                                                 Total: 5240
+                                                                                 discount %: 15%
+                                                                                 to pay: 4454.0
